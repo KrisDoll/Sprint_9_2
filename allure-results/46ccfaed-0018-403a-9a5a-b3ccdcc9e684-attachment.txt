@@ -1,0 +1,4 @@
+Request: POST https://qa-desk.stand.praktikum-services.ru/api/signup
+Request Body: {'email': 'bairdcorey@example.com', 'password': 'PZPPFBUS', 'submitPassword': 'PZPPFBUS'}
+Response Status: 201
+Response Body: {"user":{"id":8310,"name":"User","email":"bairdcorey@example.com"},"access_token":{"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ODMxMCwiZW1haWwiOiJiYWlyZGNvcmV5QGV4YW1wbGUuY29tIiwibmFtZSI6IlVzZXIiLCJpYXQiOjE3NTIzODgyNTMsImV4cCI6MTc1MjQ3NDY1M30.XJWbED8V2M_jL2294TMaPQ_UO6M17B64P40Df__cHuY"}}
